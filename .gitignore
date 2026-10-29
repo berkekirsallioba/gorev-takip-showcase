@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!NOTICE.md
+!assets/
+assets/*
+!assets/screenshots/
+assets/screenshots/*
+!assets/screenshots/*.png
